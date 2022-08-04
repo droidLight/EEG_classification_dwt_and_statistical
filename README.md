@@ -1,5 +1,5 @@
 
-# EEG classification by DWT transformation and Statiscal methods
+# EEG classification - Statistical methods
 
 Classify EEG data into normal state and onset of seizure state.
 
